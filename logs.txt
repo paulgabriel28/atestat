@@ -1,0 +1,77 @@
+Command: show_books, Date Thu May 11 23:47:18 2023
+Command: show_books, Date Thu May 11 23:47:30 2023
+Command: show_books, Date Thu May 11 23:47:32 2023
+Command: show_books, Date Thu May 11 23:47:33 2023
+Command: show_books, Date Thu May 11 23:47:33 2023
+Start ProgramFri May 12 09:44:24 2023
+Command: show_books, Date Fri May 12 09:44:30 2023
+-> START Program, Date Fri May 12 09:46:10 2023
+-> START Program, Date Fri May 12 09:51:27 2023
+Command: show_books, Date Fri May 12 11:33:30 2023
+-> START Program, Date Fri May 12 11:50:14 2023
+Read data, Date: Fri May 12 11:50:16 2023
+Hashing, Date: Fri May 12 11:50:16 2023
+Read data, Date: Fri May 12 11:50:16 2023
+Command: show_books, Date Fri May 12 11:50:18 2023
+Command: show_books, Date Fri May 12 11:50:18 2023
+Command: show_users, Date Fri May 12 11:50:20 2023
+Save data, Date: Fri May 12 11:50:46 2023
+Command: return, Date Fri May 12 11:50:46 2023
+Command: show_books, Date Fri May 12 11:51:01 2023
+Command: show_books, Date Fri May 12 11:51:01 2023
+-> START Program, Date Fri May 12 11:51:06 2023
+Read data, Date: Fri May 12 11:51:06 2023
+Hashing, Date: Fri May 12 11:51:06 2023
+Read data, Date: Fri May 12 11:51:06 2023
+Command: show_books, Date Fri May 12 11:51:08 2023
+Command: show_books, Date Fri May 12 11:51:08 2023
+-> START Program, Date Fri May 12 11:51:51 2023
+Read data, Date: Fri May 12 11:51:52 2023
+Hashing, Date: Fri May 12 11:51:52 2023
+Read data, Date: Fri May 12 11:51:52 2023
+Command: show_books, Date Fri May 12 11:51:54 2023
+Command: show_books, Date Fri May 12 11:51:54 2023
+-> START Program, Date Fri May 12 11:52:44 2023
+Read data, Date: Fri May 12 11:52:46 2023
+Hashing, Date: Fri May 12 11:52:46 2023
+Read data, Date: Fri May 12 11:52:46 2023
+Command: show_books, Date Fri May 12 11:52:47 2023
+Command: show_books, Date Fri May 12 11:52:47 2023
+-> START Program, Date Fri May 12 11:53:04 2023
+Read data, Date: Fri May 12 11:53:04 2023
+Hashing, Date: Fri May 12 11:53:04 2023
+Read data, Date: Fri May 12 11:53:04 2023
+Command: show_users, Date Fri May 12 11:53:09 2023
+Save data, Date: Fri May 12 11:53:21 2023
+Command: return, Date Fri May 12 11:53:21 2023
+Command: show_books, Date Fri May 12 11:53:24 2023
+Command: show_books, Date Fri May 12 11:53:24 2023
+Save data, Date: Fri May 12 11:53:28 2023
+Command: return, Date Fri May 12 11:53:28 2023
+-> START Program, Date Fri May 12 13:57:03 2023
+Read data, Date: Fri May 12 13:57:03 2023
+Hashing, Date: Fri May 12 13:57:03 2023
+Read data, Date: Fri May 12 13:57:03 2023
+Command: show_users, Date Fri May 12 13:57:05 2023
+-> START Program, Date Fri May 12 14:09:09 2023
+Read data, Date: Fri May 12 14:09:12 2023
+Hashing, Date: Fri May 12 14:09:12 2023
+Read data, Date: Fri May 12 14:09:12 2023
+Save data, Date: Fri May 12 14:09:17 2023
+Command: exit, Date Fri May 12 14:09:17 2023
+-> START Program, Date Mon May 15 09:27:11 2023
+Read data, Date: Mon May 15 09:27:13 2023
+Hashing, Date: Mon May 15 09:27:13 2023
+Read data, Date: Mon May 15 09:27:13 2023
+Command: show_books, Date Mon May 15 09:27:15 2023
+Command: show_books, Date Mon May 15 09:27:15 2023
+Command: show_users, Date Mon May 15 09:27:18 2023
+Command: show_users, Date Mon May 15 09:27:24 2023
+Command: show_books, Date Mon May 15 09:27:26 2023
+Command: show_books, Date Mon May 15 09:27:26 2023
+Save data, Date: Mon May 15 09:27:36 2023
+Command: remove_book, Date Mon May 15 09:27:36 2023
+Command: show_books, Date Mon May 15 09:27:38 2023
+Command: show_books, Date Mon May 15 09:27:38 2023
+Save data, Date: Mon May 15 09:27:50 2023
+Command: exit, Date Mon May 15 09:27:50 2023
